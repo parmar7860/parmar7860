@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parmar7860
+- 👋 Hi, I’m Vivek Parmar amd my git id is @parmar7860
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning python for AI & ML
 - 💞️ I’m looking to collaborate on AI & ML and Robotics
